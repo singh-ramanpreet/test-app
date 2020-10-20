@@ -1,0 +1,5 @@
+name: node-12
+channels:
+  - conda-forge
+dependencies:
+  - nodejs=12.19
